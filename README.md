@@ -1,6 +1,12 @@
 # babygrand
+
+https://github.com/user-attachments/assets/d4a916c5-0f65-4966-ad01-b8087f695eb8
+
 Baby Grand, a mechanical keyboard, designed by me.
 This keyboard is a minimalistic 31-key, alpha-staggered, choc only caseless board. 
+
+
+
 
 Layout:
 
