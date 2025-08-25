@@ -19,6 +19,16 @@ ottimo's babygrand (thank you ottimo!)
 
 my pic again, now with the PCBs
 
+## Get your own
 Build with standard SMD keyboard diodes, any CHOC-type low-profile switch, and any pro micro/equivalent. Using whatever custom QMK environment (I recommend QMK MSYS) you use for other keyboards, add `babygrandv2` to your `keyboards` folder, edit the keymap, compile and flash. 
 
-This repository contains Gerber files, if you would like to order your own circuit boards. As this was a learning experience, please do not expect any sort of support for this keyboard in the future.
+## About the project
+I created the circuit board using KiCAD, and wrote the firmware by adapting that of other ATMEGA32-based keyboards. This repository contains Gerber files, and QMK configurations. Note: This is not a 'custom keyboard'  This keyboard existed as a group order, and I sold the last one several years ago. If you would like your own, you will have to order your own circuit boards, diodes, switches, and a Pro Micro-standard controller. You will have to manually flash it using QMK. As this was a learning experience, please do not expect any sort of support for this keyboard in the future. Created during my tenure in the 40% keyboard community.
+
+## Resources
+Firmware: 
+https://qmk.fm/
+Ordering PCBs:
+https://www.reddit.com/r/MechanicalKeyboards/comments/mujaom/what_are_my_options_for_ordering_a_pcb_from_a/
+Example of what building your own keyboard from scratch entails:
+https://medium.com/@ParityB1t/gherkin-build-log-da6cbfce1ae0
