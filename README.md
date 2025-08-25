@@ -28,7 +28,9 @@ I created the circuit board using KiCAD, and wrote the firmware by adapting that
 ## Resources
 Firmware: 
 https://qmk.fm/
+
 Ordering PCBs:
 https://www.reddit.com/r/MechanicalKeyboards/comments/mujaom/what_are_my_options_for_ordering_a_pcb_from_a/
+
 Example of what building your own keyboard from scratch entails:
 https://medium.com/@ParityB1t/gherkin-build-log-da6cbfce1ae0
